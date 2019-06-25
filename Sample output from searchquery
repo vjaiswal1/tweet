@@ -1,0 +1,3432 @@
+{
+  "created_at": "Tue Jun 25 02:27:19 +0000 2019",
+  "id": 1143344894490087424,
+  "id_str": "1143344894490087424",
+  "full_text": "@alphaideas Sintex shareholders should protest like Jet Airways staff on Street for government to rescue them ! \ud83d\ude39",
+  "truncated": false,
+  "display_text_range": [
+    12,
+    113
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "alphaideas",
+        "name": "alphaideas",
+        "id": 538610119,
+        "id_str": "538610119",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+  "in_reply_to_status_id": 1143120679438471173,
+  "in_reply_to_status_id_str": "1143120679438471173",
+  "in_reply_to_user_id": 538610119,
+  "in_reply_to_user_id_str": "538610119",
+  "in_reply_to_screen_name": "alphaideas",
+  "user": {
+    "id": 570635917,
+    "id_str": "570635917",
+    "name": "BadBoy",
+    "screen_name": "salezbay",
+    "location": "West Asia ",
+    "description": "Business Executive- End is also the Beginning !",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 56,
+    "friends_count": 92,
+    "listed_count": 2,
+    "created_at": "Fri May 04 07:59:34 +0000 2012",
+    "favourites_count": 216,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2047,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1090353358257442816\/XwRik0Ak_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1090353358257442816\/XwRik0Ak_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/570635917\/1464802037",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:13:45 +0000 2019",
+  "id": 1143341479626076161,
+  "id_str": "1143341479626076161",
+  "full_text": "RT @IrrawaddyNews: The Day the KNDO Hijacked a Burma Airways Jet\n\nhttps:\/\/t.co\/Go7F1sHpdX",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    89
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "IrrawaddyNews",
+        "name": "The Irrawaddy (Eng)",
+        "id": 57289662,
+        "id_str": "57289662",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https:\/\/t.co\/Go7F1sHpdX",
+        "expanded_url": "http:\/\/bit.ly\/2X1wpYk",
+        "display_url": "bit.ly\/2X1wpYk",
+        "indices": [
+          66,
+          89
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 156676458,
+    "id_str": "156676458",
+    "name": "pyaezone",
+    "screen_name": "pyaezone",
+    "location": "Myanmar",
+    "description": "Born and Bred in Burma.\nBelieve in Diversity.\nAllergic to Mainstream Media,Libtards and Political Correctness.\nAgainst Extremism, Racism and Radical lefts",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 760,
+    "friends_count": 94,
+    "listed_count": 6,
+    "created_at": "Thu Jun 17 15:53:46 +0000 2010",
+    "favourites_count": 4861,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4025,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1038832573223297024\/l4a8leK8_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1038832573223297024\/l4a8leK8_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/156676458\/1536512552",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 25 01:56:16 +0000 2019",
+    "id": 1143337081072046081,
+    "id_str": "1143337081072046081",
+    "full_text": "The Day the KNDO Hijacked a Burma Airways Jet\n\nhttps:\/\/t.co\/Go7F1sHpdX",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      70
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/Go7F1sHpdX",
+          "expanded_url": "http:\/\/bit.ly\/2X1wpYk",
+          "display_url": "bit.ly\/2X1wpYk",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 57289662,
+      "id_str": "57289662",
+      "name": "The Irrawaddy (Eng)",
+      "screen_name": "IrrawaddyNews",
+      "location": "Myanmar",
+      "description": "Covering Burma & Southeast Asia",
+      "url": "https:\/\/t.co\/yZYCx4G4Vf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/yZYCx4G4Vf",
+              "expanded_url": "http:\/\/www.irrawaddy.com",
+              "display_url": "irrawaddy.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 377534,
+      "friends_count": 1,
+      "listed_count": 913,
+      "created_at": "Thu Jul 16 09:30:16 +0000 2009",
+      "favourites_count": 12,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 24080,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/844151378243026944\/FNKqvQdU_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/844151378243026944\/FNKqvQdU_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/57289662\/1490096372",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:10:27 +0000 2019",
+  "id": 1143340648319410176,
+  "id_str": "1143340648319410176",
+  "full_text": "RT @frntofficesport: Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Poi\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "frntofficesport",
+        "name": "Front Office Sports",
+        "id": 2710946063,
+        "id_str": "2710946063",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36137385,
+    "id_str": "36137385",
+    "name": "SLC SMMBS FullSail",
+    "screen_name": "SLC_SMM_FS",
+    "location": "Winter Park, FL",
+    "description": "Twitter feed for Marketing Law & Contracts in Sports Media & Marketing degree at Full Sail. Not intended as legal advice or an attorney client relationship.",
+    "url": "https:\/\/t.co\/4r1GWtmgr5",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/4r1GWtmgr5",
+            "expanded_url": "http:\/\/www.fullsail.edu",
+            "display_url": "fullsail.edu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 766,
+    "friends_count": 869,
+    "listed_count": 43,
+    "created_at": "Tue Apr 28 18:16:59 +0000 2009",
+    "favourites_count": 232,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3924,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3255191050\/a781ad1b9794b552b23e45de733f0823_normal.jpeg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3255191050\/a781ad1b9794b552b23e45de733f0823_normal.jpeg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/36137385\/1473212398",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 25 02:00:00 +0000 2019",
+    "id": 1143338017538502657,
+    "id_str": "1143338017538502657",
+    "full_text": "Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Points, Cargo Jet Airways is the same company that gave Drake a signature Boeing 767 airplane. https:\/\/t.co\/Vg09PRgHLL",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        
+      ],
+      "urls": [
+        
+      ],
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2710946063,
+      "id_str": "2710946063",
+      "name": "Front Office Sports",
+      "screen_name": "frntofficesport",
+      "location": "info@frntofficesport.com",
+      "description": "Insight, news, and authority at the intersection of sports and business. Newsletter: https:\/\/t.co\/4Tu9efsmWl\nJobs: @FOSJobs",
+      "url": "https:\/\/t.co\/VUJNokyGz9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/VUJNokyGz9",
+              "expanded_url": "http:\/\/frntofficesport.com",
+              "display_url": "frntofficesport.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/4Tu9efsmWl",
+              "expanded_url": "https:\/\/gofos.co\/2L4tagC",
+              "display_url": "gofos.co\/2L4tagC",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 34337,
+      "friends_count": 2517,
+      "listed_count": 565,
+      "created_at": "Mon Jul 14 18:10:56 +0000 2014",
+      "favourites_count": 26606,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 38469,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2710946063\/1561031873",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:09:19 +0000 2019",
+  "id": 1143340365245759488,
+  "id_str": "1143340365245759488",
+  "full_text": "RT @frntofficesport: Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Poi\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "frntofficesport",
+        "name": "Front Office Sports",
+        "id": 2710946063,
+        "id_str": "2710946063",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 240356929,
+    "id_str": "240356929",
+    "name": "John Gibson",
+    "screen_name": "John_Gibson41",
+    "location": "On the Run",
+    "description": "Co-FounderMarquette Law School JD Candidate 2020 \u2022 God first and family above all else \u2022 @UofAlabama Alum \u2022 Retired Athlete \u2022 #SUSOFEM",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 983,
+    "friends_count": 1109,
+    "listed_count": 0,
+    "created_at": "Wed Jan 19 18:53:59 +0000 2011",
+    "favourites_count": 2644,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4007,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/837467182770462720\/kJVQUEDS_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/837467182770462720\/kJVQUEDS_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/240356929\/1548771601",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 25 02:00:00 +0000 2019",
+    "id": 1143338017538502657,
+    "id_str": "1143338017538502657",
+    "full_text": "Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Points, Cargo Jet Airways is the same company that gave Drake a signature Boeing 767 airplane. https:\/\/t.co\/Vg09PRgHLL",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        
+      ],
+      "urls": [
+        
+      ],
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2710946063,
+      "id_str": "2710946063",
+      "name": "Front Office Sports",
+      "screen_name": "frntofficesport",
+      "location": "info@frntofficesport.com",
+      "description": "Insight, news, and authority at the intersection of sports and business. Newsletter: https:\/\/t.co\/4Tu9efsmWl\nJobs: @FOSJobs",
+      "url": "https:\/\/t.co\/VUJNokyGz9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/VUJNokyGz9",
+              "expanded_url": "http:\/\/frntofficesport.com",
+              "display_url": "frntofficesport.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/4Tu9efsmWl",
+              "expanded_url": "https:\/\/gofos.co\/2L4tagC",
+              "display_url": "gofos.co\/2L4tagC",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 34337,
+      "friends_count": 2517,
+      "listed_count": 565,
+      "created_at": "Mon Jul 14 18:10:56 +0000 2014",
+      "favourites_count": 26606,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 38469,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2710946063\/1561031873",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:08:34 +0000 2019",
+  "id": 1143340172718817280,
+  "id_str": "1143340172718817280",
+  "full_text": "The Day the KNDO Hijacked a Burma Airways Jet  https:\/\/t.co\/aRJKiPvffd",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    70
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      
+    ],
+    "urls": [
+      {
+        "url": "https:\/\/t.co\/aRJKiPvffd",
+        "expanded_url": "https:\/\/www.irrawaddy.com\/specials\/on-this-day\/day-kndo-hijacked-burma-airways-jet.html",
+        "display_url": "irrawaddy.com\/specials\/on-th\u2026",
+        "indices": [
+          47,
+          70
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"https:\/\/www.botlibre.com\" rel=\"nofollow\"\u003eBot Libre!\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 217426144,
+    "id_str": "217426144",
+    "name": "Southeast Asia News",
+    "screen_name": "southeastasia4u",
+    "location": "",
+    "description": "#SoutheastAsia News from Burma, Thailand, Laos, Cambodia, Malaysia, Vietnam, Indonesia, Brunei, Philippines & beyond curated by @browngoesaround \n#AsianStudies",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11428,
+    "friends_count": 278,
+    "listed_count": 493,
+    "created_at": "Fri Nov 19 14:08:25 +0000 2010",
+    "favourites_count": 1059,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 159617,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/731982571609935872\/8_XxaGHF_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/731982571609935872\/8_XxaGHF_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/217426144\/1463369407",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:08:11 +0000 2019",
+  "id": 1143340079487823872,
+  "id_str": "1143340079487823872",
+  "full_text": "RT @BoardingArea: This Jet Airways 737 now will fly Amazon packages across the USA https:\/\/t.co\/AuaHad45Aq via @LiveFromALounge https:\/\/t.c\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BoardingArea",
+        "name": "BoardingArea",
+        "id": 14372091,
+        "id_str": "14372091",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "LiveFromALounge",
+        "name": "Ajay Awtaney",
+        "id": 325488932,
+        "id_str": "325488932",
+        "indices": [
+          111,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https:\/\/t.co\/AuaHad45Aq",
+        "expanded_url": "http:\/\/dlvr.it\/R7BWWv",
+        "display_url": "dlvr.it\/R7BWWv",
+        "indices": [
+          83,
+          106
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 818724002000752640,
+    "id_str": "818724002000752640",
+    "name": "Vino",
+    "screen_name": "VinodhinisTweet",
+    "location": "Bangalore",
+    "description": "VinodhinisTweet, not so sweet; just bitter truth!\n& Heaven knows my tweets are MINE.\nA Believer \u271d\nA Daughter & a Sister\nA Flight Attendant \u2708\nJeremiah 29:11\n\ud83d\udcda\ud83d\udcdd",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 66,
+    "friends_count": 138,
+    "listed_count": 0,
+    "created_at": "Tue Jan 10 07:39:48 +0000 2017",
+    "favourites_count": 1723,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 457,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1140642935593197572\/McgrRHaY_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1140642935593197572\/McgrRHaY_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/818724002000752640\/1557032135",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 24 16:43:05 +0000 2019",
+    "id": 1143197867579858944,
+    "id_str": "1143197867579858944",
+    "full_text": "This Jet Airways 737 now will fly Amazon packages across the USA https:\/\/t.co\/AuaHad45Aq via @LiveFromALounge https:\/\/t.co\/feDTq9O5PQ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      109
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LiveFromALounge",
+          "name": "Ajay Awtaney",
+          "id": 325488932,
+          "id_str": "325488932",
+          "indices": [
+            93,
+            109
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/AuaHad45Aq",
+          "expanded_url": "http:\/\/dlvr.it\/R7BWWv",
+          "display_url": "dlvr.it\/R7BWWv",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1143197865721810945,
+          "id_str": "1143197865721810945",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D910ZuZVUAEYlg_.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D910ZuZVUAEYlg_.jpg",
+          "url": "https:\/\/t.co\/feDTq9O5PQ",
+          "display_url": "pic.twitter.com\/feDTq9O5PQ",
+          "expanded_url": "https:\/\/twitter.com\/BoardingArea\/status\/1143197867579858944\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1143197865721810945,
+          "id_str": "1143197865721810945",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D910ZuZVUAEYlg_.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D910ZuZVUAEYlg_.jpg",
+          "url": "https:\/\/t.co\/feDTq9O5PQ",
+          "display_url": "pic.twitter.com\/feDTq9O5PQ",
+          "expanded_url": "https:\/\/twitter.com\/BoardingArea\/status\/1143197867579858944\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003edlvr.it\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14372091,
+      "id_str": "14372091",
+      "name": "BoardingArea",
+      "screen_name": "BoardingArea",
+      "location": "",
+      "description": "Required reading for Frequent Flyers",
+      "url": "http:\/\/t.co\/Wck2fWzSh0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/Wck2fWzSh0",
+              "expanded_url": "http:\/\/boardingarea.com",
+              "display_url": "boardingarea.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 43582,
+      "friends_count": 348,
+      "listed_count": 1244,
+      "created_at": "Sun Apr 13 01:18:43 +0000 2008",
+      "favourites_count": 1383,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 176278,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1042455033680281600\/pYylyZLe_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1042455033680281600\/pYylyZLe_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/14372091\/1537301268",
+      "profile_link_color": "8BC63F",
+      "profile_sidebar_border_color": "CCCCCC",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "151515",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:04:36 +0000 2019",
+  "id": 1143339175602720769,
+  "id_str": "1143339175602720769",
+  "full_text": "RT @frntofficesport: Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Poi\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "frntofficesport",
+        "name": "Front Office Sports",
+        "id": 2710946063,
+        "id_str": "2710946063",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1072349142985396226,
+    "id_str": "1072349142985396226",
+    "name": "Jamo",
+    "screen_name": "jamosbuzz",
+    "location": "",
+    "description": "RI",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 52,
+    "friends_count": 219,
+    "listed_count": 0,
+    "created_at": "Tue Dec 11 04:35:33 +0000 2018",
+    "favourites_count": 626,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 460,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1072350302232346624\/UTa0jJRw_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1072350302232346624\/UTa0jJRw_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 25 02:00:00 +0000 2019",
+    "id": 1143338017538502657,
+    "id_str": "1143338017538502657",
+    "full_text": "Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Points, Cargo Jet Airways is the same company that gave Drake a signature Boeing 767 airplane. https:\/\/t.co\/Vg09PRgHLL",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        
+      ],
+      "urls": [
+        
+      ],
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2710946063,
+      "id_str": "2710946063",
+      "name": "Front Office Sports",
+      "screen_name": "frntofficesport",
+      "location": "info@frntofficesport.com",
+      "description": "Insight, news, and authority at the intersection of sports and business. Newsletter: https:\/\/t.co\/4Tu9efsmWl\nJobs: @FOSJobs",
+      "url": "https:\/\/t.co\/VUJNokyGz9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/VUJNokyGz9",
+              "expanded_url": "http:\/\/frntofficesport.com",
+              "display_url": "frntofficesport.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/4Tu9efsmWl",
+              "expanded_url": "https:\/\/gofos.co\/2L4tagC",
+              "display_url": "gofos.co\/2L4tagC",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 34337,
+      "friends_count": 2517,
+      "listed_count": 565,
+      "created_at": "Mon Jul 14 18:10:56 +0000 2014",
+      "favourites_count": 26606,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 38469,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2710946063\/1561031873",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:03:00 +0000 2019",
+  "id": 1143338774816010246,
+  "id_str": "1143338774816010246",
+  "full_text": "RT @frntofficesport: Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Poi\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "frntofficesport",
+        "name": "Front Office Sports",
+        "id": 2710946063,
+        "id_str": "2710946063",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1030663149765255168,
+    "id_str": "1030663149765255168",
+    "name": "Ozzy \ud83d\ude4c\ud83c\udffb\ud83d\ude24",
+    "screen_name": "ODomingu3z",
+    "location": "Miami, FL",
+    "description": "University of Miami Student \/ Equipment staff #TNM \ud83d\ude4c\ud83c\udffbSnap: mr305_ozzy IG: ozzy_345",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 187,
+    "friends_count": 669,
+    "listed_count": 1,
+    "created_at": "Sat Aug 18 03:50:18 +0000 2018",
+    "favourites_count": 80676,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7052,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1078368799441780736\/YW53ZPjn_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1078368799441780736\/YW53ZPjn_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1030663149765255168\/1551569712",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 25 02:00:00 +0000 2019",
+    "id": 1143338017538502657,
+    "id_str": "1143338017538502657",
+    "full_text": "Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Points, Cargo Jet Airways is the same company that gave Drake a signature Boeing 767 airplane. https:\/\/t.co\/Vg09PRgHLL",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        
+      ],
+      "urls": [
+        
+      ],
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1143323959355686912,
+          "id_str": "1143323959355686912",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+          "url": "https:\/\/t.co\/Vg09PRgHLL",
+          "display_url": "pic.twitter.com\/Vg09PRgHLL",
+          "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2710946063,
+      "id_str": "2710946063",
+      "name": "Front Office Sports",
+      "screen_name": "frntofficesport",
+      "location": "info@frntofficesport.com",
+      "description": "Insight, news, and authority at the intersection of sports and business. Newsletter: https:\/\/t.co\/4Tu9efsmWl\nJobs: @FOSJobs",
+      "url": "https:\/\/t.co\/VUJNokyGz9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/VUJNokyGz9",
+              "expanded_url": "http:\/\/frntofficesport.com",
+              "display_url": "frntofficesport.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/4Tu9efsmWl",
+              "expanded_url": "https:\/\/gofos.co\/2L4tagC",
+              "display_url": "gofos.co\/2L4tagC",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 34337,
+      "friends_count": 2517,
+      "listed_count": 565,
+      "created_at": "Mon Jul 14 18:10:56 +0000 2014",
+      "favourites_count": 26606,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 38469,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2710946063\/1561031873",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 02:00:00 +0000 2019",
+  "id": 1143338017538502657,
+  "id_str": "1143338017538502657",
+  "full_text": "Toronto Raptors superstar Kawhi Leonard has signed a sponsorship deal with Cargo Jet Airways.\n\nAccording to Clutch Points, Cargo Jet Airways is the same company that gave Drake a signature Boeing 767 airplane. https:\/\/t.co\/Vg09PRgHLL",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    209
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      
+    ],
+    "urls": [
+      
+    ],
+    "media": [
+      {
+        "id": 1143323959355686912,
+        "id_str": "1143323959355686912",
+        "indices": [
+          210,
+          233
+        ],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+        "url": "https:\/\/t.co\/Vg09PRgHLL",
+        "display_url": "pic.twitter.com\/Vg09PRgHLL",
+        "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 356,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 628,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1200,
+            "h": 628,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1143323959355686912,
+        "id_str": "1143323959355686912",
+        "indices": [
+          210,
+          233
+        ],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/D93nFVyWwAAWemn.jpg",
+        "url": "https:\/\/t.co\/Vg09PRgHLL",
+        "display_url": "pic.twitter.com\/Vg09PRgHLL",
+        "expanded_url": "https:\/\/twitter.com\/frntofficesport\/status\/1143338017538502657\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 356,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 628,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1200,
+            "h": 628,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2710946063,
+    "id_str": "2710946063",
+    "name": "Front Office Sports",
+    "screen_name": "frntofficesport",
+    "location": "info@frntofficesport.com",
+    "description": "Insight, news, and authority at the intersection of sports and business. Newsletter: https:\/\/t.co\/4Tu9efsmWl\nJobs: @FOSJobs",
+    "url": "https:\/\/t.co\/VUJNokyGz9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/VUJNokyGz9",
+            "expanded_url": "http:\/\/frntofficesport.com",
+            "display_url": "frntofficesport.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/4Tu9efsmWl",
+            "expanded_url": "https:\/\/gofos.co\/2L4tagC",
+            "display_url": "gofos.co\/2L4tagC",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 34337,
+    "friends_count": 2517,
+    "listed_count": 565,
+    "created_at": "Mon Jul 14 18:10:56 +0000 2014",
+    "favourites_count": 26606,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 38469,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1141676579283701760\/O7v73PJd_normal.png",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2710946063\/1561031873",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 10,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 01:56:16 +0000 2019",
+  "id": 1143337081072046081,
+  "id_str": "1143337081072046081",
+  "full_text": "The Day the KNDO Hijacked a Burma Airways Jet\n\nhttps:\/\/t.co\/Go7F1sHpdX",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    70
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      
+    ],
+    "urls": [
+      {
+        "url": "https:\/\/t.co\/Go7F1sHpdX",
+        "expanded_url": "http:\/\/bit.ly\/2X1wpYk",
+        "display_url": "bit.ly\/2X1wpYk",
+        "indices": [
+          47,
+          70
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 57289662,
+    "id_str": "57289662",
+    "name": "The Irrawaddy (Eng)",
+    "screen_name": "IrrawaddyNews",
+    "location": "Myanmar",
+    "description": "Covering Burma & Southeast Asia",
+    "url": "https:\/\/t.co\/yZYCx4G4Vf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/yZYCx4G4Vf",
+            "expanded_url": "http:\/\/www.irrawaddy.com",
+            "display_url": "irrawaddy.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 377534,
+    "friends_count": 1,
+    "listed_count": 913,
+    "created_at": "Thu Jul 16 09:30:16 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 24080,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": true,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/844151378243026944\/FNKqvQdU_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/844151378243026944\/FNKqvQdU_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/57289662\/1490096372",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 01:54:37 +0000 2019",
+  "id": 1143336664070156288,
+  "id_str": "1143336664070156288",
+  "full_text": "@RughaniKiran @goibibo @vikalpsahni Makemytrip has refunded similar Jet Airways customers but GoIbibo hasn't despite the fact that Makemytrip is GoIbibo's parent company",
+  "truncated": false,
+  "display_text_range": [
+    36,
+    169
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RughaniKiran",
+        "name": "Kiran Rughani",
+        "id": 735315194,
+        "id_str": "735315194",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "goibibo",
+        "name": "goibibo",
+        "id": 98649937,
+        "id_str": "98649937",
+        "indices": [
+          14,
+          22
+        ]
+      },
+      {
+        "screen_name": "vikalpsahni",
+        "name": "vikalp sahni",
+        "id": 21069044,
+        "id_str": "21069044",
+        "indices": [
+          23,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+  "in_reply_to_status_id": 1142744744730251269,
+  "in_reply_to_status_id_str": "1142744744730251269",
+  "in_reply_to_user_id": 735315194,
+  "in_reply_to_user_id_str": "735315194",
+  "in_reply_to_screen_name": "RughaniKiran",
+  "user": {
+    "id": 132821256,
+    "id_str": "132821256",
+    "name": "Victim of GoIbibo n JetAirways Pnrs CAIXFX TDBRE6",
+    "screen_name": "sanchaykaridhal",
+    "location": "Gurgaon",
+    "description": "Refunds held by GoIbibo:\n1. Goibibo Booking Id- TUABL4S9C\nPnrs - CAIXFX, TDBRE6\nRefund Amount: Rs 110200\n\n2. GoIbibo Traveltag Insurance \nConfirmation Numbers-",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 183,
+    "friends_count": 140,
+    "listed_count": 0,
+    "created_at": "Wed Apr 14 08:03:15 +0000 2010",
+    "favourites_count": 144,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 346,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/920553508109086720\/WJzz0vZG_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/920553508109086720\/WJzz0vZG_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/132821256\/1508312099",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 01:48:23 +0000 2019",
+  "id": 1143335097044619265,
+  "id_str": "1143335097044619265",
+  "full_text": "RT @GaneshKabadi6: @HardeepSPuri @MoCA_GoI @AAI_Official @airindiain @DelhiAirport Sir..it is also true the employees who works so hard for\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GaneshKabadi6",
+        "name": "Ganesh Kabadi",
+        "id": 1136529205498458114,
+        "id_str": "1136529205498458114",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "HardeepSPuri",
+        "name": "Hardeep Singh Puri",
+        "id": 2289628938,
+        "id_str": "2289628938",
+        "indices": [
+          19,
+          32
+        ]
+      },
+      {
+        "screen_name": "MoCA_GoI",
+        "name": "Ministry of Civil Aviation",
+        "id": 3619207820,
+        "id_str": "3619207820",
+        "indices": [
+          33,
+          42
+        ]
+      },
+      {
+        "screen_name": "AAI_Official",
+        "name": "Airports Authority of India",
+        "id": 877832878830137345,
+        "id_str": "877832878830137345",
+        "indices": [
+          43,
+          56
+        ]
+      },
+      {
+        "screen_name": "airindiain",
+        "name": "Air India",
+        "id": 387573617,
+        "id_str": "387573617",
+        "indices": [
+          57,
+          68
+        ]
+      },
+      {
+        "screen_name": "DelhiAirport",
+        "name": "Delhi Airport",
+        "id": 376106733,
+        "id_str": "376106733",
+        "indices": [
+          69,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1139069325027921920,
+    "id_str": "1139069325027921920",
+    "name": "Shreyas Guha",
+    "screen_name": "guha_shreyas",
+    "location": "CCU",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6,
+    "friends_count": 4,
+    "listed_count": 0,
+    "created_at": "Thu Jun 13 07:17:44 +0000 2019",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 707,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1139071185747030016\/Igv16e-K_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1139071185747030016\/Igv16e-K_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1139069325027921920\/1560410707",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jun 22 08:46:55 +0000 2019",
+    "id": 1142353261053304832,
+    "id_str": "1142353261053304832",
+    "full_text": "@HardeepSPuri @MoCA_GoI @AAI_Official @airindiain @DelhiAirport Sir..it is also true the employees who works so hard for the airlines like jet airways for the last 26years also contributed #SaveJetAirways to Indian Aviation .... don't look them in the market of demand supply, Mismanagement..",
+    "truncated": false,
+    "display_text_range": [
+      64,
+      292
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SaveJetAirways",
+          "indices": [
+            189,
+            204
+          ]
+        }
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HardeepSPuri",
+          "name": "Hardeep Singh Puri",
+          "id": 2289628938,
+          "id_str": "2289628938",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "MoCA_GoI",
+          "name": "Ministry of Civil Aviation",
+          "id": 3619207820,
+          "id_str": "3619207820",
+          "indices": [
+            14,
+            23
+          ]
+        },
+        {
+          "screen_name": "AAI_Official",
+          "name": "Airports Authority of India",
+          "id": 877832878830137345,
+          "id_str": "877832878830137345",
+          "indices": [
+            24,
+            37
+          ]
+        },
+        {
+          "screen_name": "airindiain",
+          "name": "Air India",
+          "id": 387573617,
+          "id_str": "387573617",
+          "indices": [
+            38,
+            49
+          ]
+        },
+        {
+          "screen_name": "DelhiAirport",
+          "name": "Delhi Airport",
+          "id": 376106733,
+          "id_str": "376106733",
+          "indices": [
+            50,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1142346358193475584,
+    "in_reply_to_status_id_str": "1142346358193475584",
+    "in_reply_to_user_id": 2289628938,
+    "in_reply_to_user_id_str": "2289628938",
+    "in_reply_to_screen_name": "HardeepSPuri",
+    "user": {
+      "id": 1136529205498458114,
+      "id_str": "1136529205498458114",
+      "name": "Ganesh Kabadi",
+      "screen_name": "GaneshKabadi6",
+      "location": "",
+      "description": "Avgeek Person",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 89,
+      "listed_count": 0,
+      "created_at": "Thu Jun 06 07:04:13 +0000 2019",
+      "favourites_count": 34,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 27,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1136530321606926336\/rqoBlSN6_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1136530321606926336\/rqoBlSN6_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1136529205498458114\/1561396843",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 01:47:41 +0000 2019",
+  "id": 1143334918371459072,
+  "id_str": "1143334918371459072",
+  "full_text": "@ratu23dec We understand your concern, however, please note we have not received the refund from Jet Airways. Once we hear from the airline will update you accordingly.",
+  "truncated": false,
+  "display_text_range": [
+    11,
+    168
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ratu23dec",
+        "name": "Rati Madaan",
+        "id": 122946007,
+        "id_str": "122946007",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"https:\/\/www.onedirect.in\/\" rel=\"nofollow\"\u003eOneDirect Suite\u003c\/a\u003e",
+  "in_reply_to_status_id": 1143330883463598081,
+  "in_reply_to_status_id_str": "1143330883463598081",
+  "in_reply_to_user_id": 122946007,
+  "in_reply_to_user_id_str": "122946007",
+  "in_reply_to_screen_name": "ratu23dec",
+  "user": {
+    "id": 67537455,
+    "id_str": "67537455",
+    "name": "MakeMyTrip Care",
+    "screen_name": "makemytripcare",
+    "location": "Gurgaon, India",
+    "description": "Official Twitter Account of MakeMyTrip, India\u2019s leading travel company. Be inspired and get ideas for your next travel here!",
+    "url": "https:\/\/t.co\/VPBnCzBwJz",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/VPBnCzBwJz",
+            "expanded_url": "https:\/\/support.makemytrip.com\/",
+            "display_url": "support.makemytrip.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 21917,
+    "friends_count": 6854,
+    "listed_count": 114,
+    "created_at": "Fri Aug 21 05:44:12 +0000 2009",
+    "favourites_count": 331,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 249452,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/711742831849660416\/uMIBsMn1_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/711742831849660416\/uMIBsMn1_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/67537455\/1375989276",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 01:46:58 +0000 2019",
+  "id": 1143334737823449088,
+  "id_str": "1143334737823449088",
+  "full_text": "RT @Mithilesh431: Respected @narendramodi Sir U can Save our Jet Airways but we don't know why u not interested in Jet Airways Revival, but\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Mithilesh431",
+        "name": "Mithilesh kumar pandey",
+        "id": 2163647727,
+        "id_str": "2163647727",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "narendramodi",
+        "name": "Narendra Modi",
+        "id": 18839785,
+        "id_str": "18839785",
+        "indices": [
+          28,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1139069325027921920,
+    "id_str": "1139069325027921920",
+    "name": "Shreyas Guha",
+    "screen_name": "guha_shreyas",
+    "location": "CCU",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6,
+    "friends_count": 4,
+    "listed_count": 0,
+    "created_at": "Thu Jun 13 07:17:44 +0000 2019",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 707,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1139071185747030016\/Igv16e-K_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1139071185747030016\/Igv16e-K_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1139069325027921920\/1560410707",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Jun 23 12:19:57 +0000 2019",
+    "id": 1142769256645312512,
+    "id_str": "1142769256645312512",
+    "full_text": "Respected @narendramodi Sir U can Save our Jet Airways but we don't know why u not interested in Jet Airways Revival, but I want to say u to \"SAVE JET AIRWAYS SAVE OURS FAMILY\"\ud83c\uddf3\ud83c\uddea \"SAVE JET  AIRWAYS SAVE YOUR FAME\" \ud83c\uddf3\ud83c\uddea\"SAVE JET AIRWAYS SAVE YOUR DIGNITY \"\ud83c\uddf3\ud83c\uddeaJAI HIND\ud83d\ude4f https:\/\/t.co\/z1FAJaNIUF",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      264
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "narendramodi",
+          "name": "Narendra Modi",
+          "id": 18839785,
+          "id_str": "18839785",
+          "indices": [
+            10,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        
+      ],
+      "media": [
+        {
+          "id": 1142769244410486784,
+          "id_str": "1142769244410486784",
+          "indices": [
+            265,
+            288
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D9vukrlUIAAK4DF.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D9vukrlUIAAK4DF.jpg",
+          "url": "https:\/\/t.co\/z1FAJaNIUF",
+          "display_url": "pic.twitter.com\/z1FAJaNIUF",
+          "expanded_url": "https:\/\/twitter.com\/Mithilesh431\/status\/1142769256645312512\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1078,
+              "h": 616,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1078,
+              "h": 616,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 389,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1142769244410486784,
+          "id_str": "1142769244410486784",
+          "indices": [
+            265,
+            288
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D9vukrlUIAAK4DF.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D9vukrlUIAAK4DF.jpg",
+          "url": "https:\/\/t.co\/z1FAJaNIUF",
+          "display_url": "pic.twitter.com\/z1FAJaNIUF",
+          "expanded_url": "https:\/\/twitter.com\/Mithilesh431\/status\/1142769256645312512\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1078,
+              "h": 616,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1078,
+              "h": 616,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 389,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1142769253835132928,
+          "id_str": "1142769253835132928",
+          "indices": [
+            265,
+            288
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/D9vulOsU0AAHBMn.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/D9vulOsU0AAHBMn.jpg",
+          "url": "https:\/\/t.co\/z1FAJaNIUF",
+          "display_url": "pic.twitter.com\/z1FAJaNIUF",
+          "expanded_url": "https:\/\/twitter.com\/Mithilesh431\/status\/1142769256645312512\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 720,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2163647727,
+      "id_str": "2163647727",
+      "name": "Mithilesh kumar pandey",
+      "screen_name": "Mithilesh431",
+      "location": "NEW DELHI",
+      "description": "Sometimes is happening  wrong with U...\ud83d\ude43 #Save jetairways",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 18,
+      "friends_count": 149,
+      "listed_count": 0,
+      "created_at": "Fri Nov 01 17:51:21 +0000 2013",
+      "favourites_count": 998,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 477,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1135581093334114304\/Ejk4kSlx_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1135581093334114304\/Ejk4kSlx_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 20,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+},
+{
+  "created_at": "Tue Jun 25 01:46:45 +0000 2019",
+  "id": 1143334682651549696,
+  "id_str": "1143334682651549696",
+  "full_text": "RT @ABHAY71858325: @anilks19701344 @jetairways dear @narendramodi ji please jet staff and save jet airways we request with you that please\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ABHAY71858325",
+        "name": "\u0905\u092d\u092f \u0936\u093e\u0939",
+        "id": 1122476877812158467,
+        "id_str": "1122476877812158467",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "anilks19701344",
+        "name": "Anil Kumar Singh",
+        "id": 740849773671022592,
+        "id_str": "740849773671022592",
+        "indices": [
+          19,
+          34
+        ]
+      },
+      {
+        "screen_name": "jetairways",
+        "name": "Jet Airways",
+        "id": 14918367,
+        "id_str": "14918367",
+        "indices": [
+          35,
+          46
+        ]
+      },
+      {
+        "screen_name": "narendramodi",
+        "name": "Narendra Modi",
+        "id": 18839785,
+        "id_str": "18839785",
+        "indices": [
+          52,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1139069325027921920,
+    "id_str": "1139069325027921920",
+    "name": "Shreyas Guha",
+    "screen_name": "guha_shreyas",
+    "location": "CCU",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6,
+    "friends_count": 4,
+    "listed_count": 0,
+    "created_at": "Thu Jun 13 07:17:44 +0000 2019",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 707,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1139071185747030016\/Igv16e-K_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1139071185747030016\/Igv16e-K_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1139069325027921920\/1560410707",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 24 05:23:06 +0000 2019",
+    "id": 1143026741746655232,
+    "id_str": "1143026741746655232",
+    "full_text": "@anilks19701344 @jetairways dear @narendramodi ji please jet staff and save jet airways we request with you that please save there livelihood",
+    "truncated": false,
+    "display_text_range": [
+      28,
+      141
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "anilks19701344",
+          "name": "Anil Kumar Singh",
+          "id": 740849773671022592,
+          "id_str": "740849773671022592",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "jetairways",
+          "name": "Jet Airways",
+          "id": 14918367,
+          "id_str": "14918367",
+          "indices": [
+            16,
+            27
+          ]
+        },
+        {
+          "screen_name": "narendramodi",
+          "name": "Narendra Modi",
+          "id": 18839785,
+          "id_str": "18839785",
+          "indices": [
+            33,
+            46
+          ]
+        }
+      ],
+      "urls": [
+        
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": 1142832640036261888,
+    "in_reply_to_status_id_str": "1142832640036261888",
+    "in_reply_to_user_id": 740849773671022592,
+    "in_reply_to_user_id_str": "740849773671022592",
+    "in_reply_to_screen_name": "anilks19701344",
+    "user": {
+      "id": 1122476877812158467,
+      "id_str": "1122476877812158467",
+      "name": "\u0905\u092d\u092f \u0936\u093e\u0939",
+      "screen_name": "ABHAY71858325",
+      "location": "",
+      "description": "@saveemployment like jet airways",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Sun Apr 28 12:25:17 +0000 2019",
+      "favourites_count": 361,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 586,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1136153211507601409\/XhXgvsOR_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1136153211507601409\/XhXgvsOR_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+],
+"search_metadata": {
+"completed_in": 0.062,
+"max_id": 1143344894490087424,
+"max_id_str": "1143344894490087424",
+"next_results": "?max_id=1143334682651549695&q=Jet%20Airways&include_entities=1",
+"query": "Jet+Airways",
+"refresh_url": "?since_id=1143344894490087424&q=Jet%20Airways&include_entities=1",
+"count": 15,
+"since_id": 0,
+"since_id_str": "0"
+}
+}
